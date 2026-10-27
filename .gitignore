@@ -1,0 +1,20 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Data and results
+data/
+results/
+*.npz
+*.jsonl
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
